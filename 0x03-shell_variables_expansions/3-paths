@@ -1,0 +1,1 @@
+o $PATH | grep -o ":/" | expr $(wc -l) + 1
